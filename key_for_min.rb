@@ -16,4 +16,4 @@ def key_for_min_value(name_hash)
 
     return min_value_key
   end # outer-if
-end
+end # self
